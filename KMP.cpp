@@ -71,3 +71,5 @@ int main()
     cout<<KMP(s,t); // count of pattern in string
     return 0;
 }
+
+// Reference:- https://www.youtube.com/watch?v=GTJr8OvyEVQ
